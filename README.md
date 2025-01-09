@@ -1,16 +1,98 @@
-# education_app_ui
+# Flutter_LearningHub_UI
+ 
+## **Project Description**
 
-A new Flutter project.
+♥ Iɴᴛʀᴏᴅᴜᴄɪɴɢ: A modern and intuitive Flutter-based educational application designed to provide seamless access to programming courses and learning materials.
 
-## Getting Started
+## ♥ **Kᴇʏ Fᴇᴀᴛᴜʀᴇꜱ**:
+## *Aᴜᴛʜᴇɴᴛɪᴄᴀᴛɪᴏɴ & Oɴʙᴏᴀʀᴅɪɴɢ*:
+- Clean and engaging splash screen with learning-focused imagery
+- Welcoming onboarding experience with the tagline **"Learning is Everything"**
+  
+## *Dᴀsʜʙᴏᴀʀᴅ (Hᴏᴍᴇ Sᴄʀᴇᴇɴ)*:
+- Personalized greeting header with search functionality
+- Quick access navigation icons:
+  - Category
+  - Classes
+  - Free Courses
+  - BookStore
+  - Live Course
+  - LeaderBoard
+- Featured programming courses section
+- Currently featuring Flutter and React Native (55 videos each)
+- Clean bottom navigation with Home, Courses, Wishlist, and Profile tabs
 
-This project is a starting point for a Flutter application.
+  ## *Cᴏᴜʀsᴇ Dᴇᴛᴀɪʟ Sᴄʀᴇᴇɴ*:
+  - Comprehensive course information display
+  - Video-based learning interface
+  - Course curriculum listing:
+    - Introduction (20:50)
+    - Installation Guide (20:50)
+    - Environment Setup (20:50)
+    - First App Creation (20:50)
+  - Professional course player integration
+    
+  ## *Cᴏᴜʀsᴇ Dᴇsᴄʀɪᴘᴛɪᴏɴ*:
+  - Detailed course overview
+  - Total course duration: 26 hours
+  - Course rating: 4.5/5
+  - Focus on iOS and Android development
+  - Coverage of widget-based UI creation
+  - State management implementation
+  - Hot reload feature utilization
+ 
+  ## *Assɪɢɴᴍᴇɴᴛs Sᴄʀᴇᴇɴ*:
+  - Clear assignment tracking interface
+  - Assignment details include:
+     - Assignment title
+     - Assign date
+     - Last date
+     - Current status (Pending/Submitted)
+  - Multiple course assignments view
+  - Status tracking for different courses
+   
+  ## *Wɪsʜʟɪsᴛ Sᴄʀᴇᴇɴ*:
+  - Save favorite courses for later
+  - Currently featuring:
+     - Flutter Crash Course
+     - C# Sharp Course
+     - Python Complete Course
+     - React Native Course
+  - Easy access to saved courses
 
-A few resources to get you started if this is your first Flutter project:
+  ## *Pʀᴏғɪʟᴇ Sᴄʀᴇᴇɴ*:
+  - Professional user profile management
+  - Display of key user information:
+     - Full name
+     - Professional title
+     - Date of birth
+     - Location
+     - Contact information
+  - Profile picture integration
+    
+## ♥ **Bᴜɪʟᴛ Wɪᴛʜ**:
+- 𝗙𝗹𝘂𝘁𝘁𝗲𝗿 & 𝗗𝗮𝗿𝘁 for sleek, cross-platform functionality. 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- This is a front-end implementation meant to showcase Flutter interface design capabilities.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## **App UIs Screenshots**
+Here are some screenshots of the app:
+
+![Welcome Screen](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/Welcome%20UI.PNG?raw=true)  
+![Main Dashboard](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/Dashboard%20UI.PNG?raw=true)  
+![Course Details](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/Course%20Details.PNG?raw=true)  
+![Assignments Screen](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/Assignments%20UI.PNG?raw=true)  
+![Flutter Course](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/Flutter%20Course.PNG?raw=true)  
+![Wishlist Screen](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/Wishlist%20UI.PNG?raw=true) 
+![Profile Screen](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/profile%20UI.PNG?raw=true)  
+
+### **App Demo**
+You can download and view the demo video of the app here:
+
+[Flutter_LearningHub_UI Link](https://github.com/hwb06/Flutter_LearningHub_UI/releases/tag/v1.0.0)
+
+## **Contact Information**
+If you have any questions or feedback, feel free to reach out:
+
+- Email: hussnainwaheed864@gmail.com
+- GitHub: [@hwb06](https://github.com/hwb06)
