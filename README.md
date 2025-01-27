@@ -78,13 +78,9 @@
 ## **App UIs Screenshots**
 Here are some screenshots of the app:
 
-![Welcome Screen](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/Welcome%20UI.PNG?raw=true)  
-![Main Dashboard](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/Dashboard%20UI.PNG?raw=true)  
-![Course Details](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/Course%20Details.PNG?raw=true)  
-![Assignments Screen](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/Assignments%20UI.PNG?raw=true)  
-![Flutter Course](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/Flutter%20Course.PNG?raw=true)  
-![Wishlist Screen](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/Wishlist%20UI.PNG?raw=true) 
-![Profile Screen](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/profile%20UI.PNG?raw=true)  
+![01](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/01.png)  
+![02](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/02.png)  
+![03](https://github.com/hwb06/Flutter_LearningHub_UI/blob/main/App_UI_Screens/03.png)  
 
 ### **App Demo**
 You can download and view the demo video of the app here:
