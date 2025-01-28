@@ -85,7 +85,7 @@ Here are some screenshots of the app:
 ### **App Demo**
 You can download and view the demo video of the app here:
 
-[Flutter_LearningHub_UI Link](https://github.com/hwb06/Flutter_LearningHub_UI/releases/tag/v1.0.0)
+[Flutter_LearningHub_UI Link](https://www.dropbox.com/scl/fi/d90e0dcfesnrczlvt45qa/LearningHub-Video.mp4?rlkey=prmdsd5o4uw33b29uc3b5y0us&st=0qx9oao3&dl=0)
 
 ## **Contact Information**
 If you have any questions or feedback, feel free to reach out:
